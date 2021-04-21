@@ -1,0 +1,12 @@
+.menus_123{
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+}
+
+.text_div{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(207, 207, 207);
+}

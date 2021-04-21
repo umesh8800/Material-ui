@@ -1,0 +1,16 @@
+.New_button{
+        display: flex;
+        align-items: center;
+        margin-left: 5px;
+    }
+
+
+    .bottom_field{
+        display: flex;
+        align-items: center;
+        margin: 0 30px;
+    }
+
+    .input_field{
+        margin: 0 20px;
+    }

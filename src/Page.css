@@ -1,0 +1,34 @@
+.top_buttons{
+    display: flex;
+    align-items: center;
+    /* margin-left: 5px; */
+}
+
+.bottom_part{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.personIcon1{
+    border: 1px solid lightgrey;
+    border-right: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.personIcon{
+    border: 1px solid lightgrey;
+    border-right: none;
+    padding: 15px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.icons_margin{
+    margin: 20px;
+}
+
+.icons_margi{
+    margin: 30px;
+}
